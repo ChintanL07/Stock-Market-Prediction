@@ -23,7 +23,7 @@ The Stock Market Prediction project uses machine learning techniques to predict 
 - **Libraries:** pandas, numpy, sklearn, matplotlib, seaborn
 - **Platform:** Google Colab
 
-## How to Use
+
 
 ### Prerequisites
 
