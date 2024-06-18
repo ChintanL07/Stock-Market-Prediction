@@ -31,20 +31,6 @@ The Stock Market Prediction project uses machine learning techniques to predict 
 - Google Colab account
 - Required Python libraries (pandas, numpy, sklearn, matplotlib, seaborn)
 
-### Installation
-
-1. **Clone the Repository**
-    ```bash
-    git clone https://github.com/YourUsername/Stock-Market-Prediction.git
-    cd Stock-Market-Prediction
-    ```
-
-2. **Open in Google Colab**
-    - Go to [Google Colab](https://colab.research.google.com/).
-    - Click on **File** > **Open notebook**.
-    - Select the **GitHub** tab and paste the repository URL: `https://github.com/YourUsername/Stock-Market-Prediction`.
-    - Open the notebook and run the cells.
-
 ## Code Structure
 
 - `Stock_Market_Prediction.ipynb`: The main notebook containing the implementation of the stock market prediction model.
